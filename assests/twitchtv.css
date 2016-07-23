@@ -1,0 +1,25 @@
+#off{
+  background: #ffcccc;
+}
+img{
+  border-radius:50%;
+  width:90px;
+  height:90px;
+  border:5px solid #1a66ff;
+  float:left;
+  margin:5px;
+}
+#on{
+  background:#b3ffb3;
+}
+
+li{
+  list-style-type: none;
+  height:100px;
+  text-align:center;
+  margin:5px;
+  border:1px solid;
+}
+#status{
+  padding:35px;
+}
